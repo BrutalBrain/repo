@@ -1,12 +1,14 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-07 18:00 KST · 총 10건_
+_최종 갱신: 2026-10-08 06:06 KST · 총 12건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-06 | 🇺🇸 | [Investment Adviser Performance-Based Compensation Modernization](2026-10-06_FR_2026-20474_Investment-Adviser-Performance-Based-Compens.md) | 수요 창출 · 준수비용 증가 |
+| 2026-10-06 | 🇺🇸 | [Adviser and Regulated Fund Custody Rules; Crypto Custody Rules](2026-10-06_FR_2026-20466_Adviser-and-Regulated-Fund-Custody-Rules-Cry.md) | 수요 창출 · 진입장벽 · 준수비용 증가 |
 | 2026-09-04 | 🇺🇸 | [Transfer Agent Rules](2026-09-04_FR_2026-18190_Transfer-Agent-Rules.md) | 준수비용 증가 · 진입장벽 · 수요 창출 |
 | 2026-10-06 | 🇺🇸 | [Transparency in Coverage](2026-10-06_FR_2026-20447_Transparency-in-Coverage.md) | 준수비용 증가 · 수요 창출 |
 | 2026-09-25 | 🇺🇸 | [Annual Notices on Explosive Materials Storage Facilities to Local Fire](2026-09-25_FR_2026-19694_Annual-Notices-on-Explosive-Materials-Storag.md) | 준수비용 증가 |
