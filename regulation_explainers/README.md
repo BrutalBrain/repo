@@ -1,12 +1,13 @@
 # 규제 해설
 
-_최종 갱신: 2026-10-10 17:10 KST · 총 13건_
+_최종 갱신: 2026-10-11 05:12 KST · 총 14건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Proposal of Special Measure Regarding Convertible Virtual Cu](2026-10-06_FR_2026-20429_explainer.md) | 미국이 가상자산 믹싱 규제안을 공식 철회하면서 거래소·수탁기관과 믹서·프라이버시 프로토콜 진영에는 규제 리스크 해소, 레그테크 업계에는 예정 수 |
 | 2026-10-08 | 🇺🇸 | 🔵 의견수렴 | [Clinical Laboratory Improvement Amendments of 1988 (CLIA); V](2026-10-08_FR_2026-20613_explainer.md) | 미국이 코로나 때 임시로 봐주던 '검사실 밖 원격 판독'을 정식 합법으로 만드는 규제 완화로, 디지털 병리 장비·의료 IT·스토리지 업체에 수요 |
 | 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Investment Adviser Performance-Based Compensation Modernizat](2026-10-06_FR_2026-20474_explainer.md) | 사모펀드의 전유물이던 성과보수 전략이 공모펀드로 열리는 SEC 제안 — 사모 전략을 가진 자산운용사에는 고마진 수입원이 생기고, 고정보수만 받는 |
 | 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Adviser and Regulated Fund Custody Rules; Crypto Custody Rul](2026-10-06_FR_2026-20466_explainer.md) | SEC가 '맡길 곳이 없어' 막혀 있던 펀드의 암호화폐 투자 길을 여는 보관 규칙 초안을 내놓았다 — 확정 가능성이 높아, 암호화폐 수탁 서비스 |
