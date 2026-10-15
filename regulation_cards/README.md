@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-11 05:18 KST · 총 18건_
+_최종 갱신: 2026-10-16 05:37 KST · 총 21건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-15 | 🇺🇸 | [Cause of Airline Delay and Cancellation Categories Under Section 511(b](2026-10-15_FR_2026-21058_Cause-of-Airline-Delay-and-Cancellation-Cate.md) | 준수비용 증가 |
+| 2026-10-14 | 🇺🇸 | [Imposition and Collection of Civil Penalties for Certain Immigration-R](2026-10-14_FR_2026-21024_Imposition-and-Collection-of-Civil-Penalties.md) | 준수비용 증가 · 공급 차단 |
+| 2026-10-15 | 🇺🇸 | [Investment Company Cross Trading](2026-10-15_FR_2026-21037_Investment-Company-Cross-Trading.md) | 수요 창출 · 준수비용 증가 |
 | 2026-10-13 | 🇺🇸 | [Project-Level Predecisional Administrative Review Process](2026-10-13_FR_2026-20890_Project-Level-Predecisional-Administrative-R.md) | 진입장벽 · 공급 차단 |
 | 2026-10-13 | 🇺🇸 | [Use of Salt Substitutes To Reduce the Sodium Content in Standardized F](2026-10-13_FR_2026-20848_Use-of-Salt-Substitutes-To-Reduce-the-Sodium.md) | 수요 창출 |
 | 2026-10-09 | 🇺🇸 | [Schedules of Controlled Substances; Removal of Exemption Status for In](2026-10-09_FR_2026-20757_Schedules-of-Controlled-Substances-Removal-o.md) | 진입장벽 |
