@@ -1,12 +1,13 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-16 05:37 KST · 총 21건_
+_최종 갱신: 2026-10-17 05:51 KST · 총 22건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-16 | 🇺🇸 | [Renewable Fuel Standard (RFS) Program: Reallocation of Additional 2025](2026-10-16_FR_2026-21155_Renewable-Fuel-Standard-RFS-Program-Realloca.md) | 준수비용 증가 · 수요 창출 |
 | 2026-10-15 | 🇺🇸 | [Cause of Airline Delay and Cancellation Categories Under Section 511(b](2026-10-15_FR_2026-21058_Cause-of-Airline-Delay-and-Cancellation-Cate.md) | 준수비용 증가 |
 | 2026-10-14 | 🇺🇸 | [Imposition and Collection of Civil Penalties for Certain Immigration-R](2026-10-14_FR_2026-21024_Imposition-and-Collection-of-Civil-Penalties.md) | 준수비용 증가 · 공급 차단 |
 | 2026-10-15 | 🇺🇸 | [Investment Company Cross Trading](2026-10-15_FR_2026-21037_Investment-Company-Cross-Trading.md) | 수요 창출 · 준수비용 증가 |
