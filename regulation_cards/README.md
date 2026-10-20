@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-18 23:28 KST · 총 25건_
+_최종 갱신: 2026-10-21 08:31 KST · 총 28건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-20 | 🇺🇸 | [Authorizations for Certain Activities at Liquefied Natural Gas Plants](2026-10-20_FR_2026-21443_Authorizations-for-Certain-Activities-at-Liq.md) | 진입장벽 · 수요 창출 |
+| 2026-10-20 | 🇺🇸 | [Civil Penalties Inflation Adjustments; Annual Adjustments](2026-10-20_FR_2026-21474_Civil-Penalties-Inflation-Adjustments-Annual.md) | 준수비용 증가 |
+| 2026-10-20 | 🇺🇸 | [Medicare Program; Implementation of Sections 6219, 6220, and 6224 of t](2026-10-20_FR_2026-21420_Medicare-Program-Implementation-of-Sections-.md) | 준수비용 증가 · 수요 창출 · 보조금 |
 | 2026-10-09 | 🇺🇸 | [Emergency Tax Relief on Diesel Fuel](2026-10-09_FR_2026-20855_Emergency-Tax-Relief-on-Diesel-Fuel.md) | 보조금 |
 | 2026-10-19 | 🇺🇸 | [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in](2026-10-19_FR_2026-21371_Marine-Mammals-Incidental-Take-of-Polar-Bear.md) | 수요 창출 · 준수비용 증가 · 진입장벽 |
 | 2026-10-19 | 🇺🇸 | [Alaska; Wildlife, Harvest, and Access](2026-10-19_FR_2026-21299_Alaska-Wildlife-Harvest-and-Access.md) | 수요 창출 |
