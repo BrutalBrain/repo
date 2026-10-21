@@ -1,12 +1,13 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-21 08:31 KST · 총 28건_
+_최종 갱신: 2026-10-21 11:21 KST · 총 29건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-15 | 🇺🇸 | [Retire through Ownership Act](2026-10-15_CG_119-s2403_Retire-through-Ownership-Act.md) | 수요 창출 |
 | 2026-10-20 | 🇺🇸 | [Authorizations for Certain Activities at Liquefied Natural Gas Plants](2026-10-20_FR_2026-21443_Authorizations-for-Certain-Activities-at-Liq.md) | 진입장벽 · 수요 창출 |
 | 2026-10-20 | 🇺🇸 | [Civil Penalties Inflation Adjustments; Annual Adjustments](2026-10-20_FR_2026-21474_Civil-Penalties-Inflation-Adjustments-Annual.md) | 준수비용 증가 |
 | 2026-10-20 | 🇺🇸 | [Medicare Program; Implementation of Sections 6219, 6220, and 6224 of t](2026-10-20_FR_2026-21420_Medicare-Program-Implementation-of-Sections-.md) | 준수비용 증가 · 수요 창출 · 보조금 |
