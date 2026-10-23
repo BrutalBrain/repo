@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-23 05:41 KST · 총 33건_
+_최종 갱신: 2026-10-24 05:28 KST · 총 36건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-22 | 🇺🇸 | [Advancing Women's Health To Improve Outcomes in All Phases of Life](2026-10-22_FR_2026-21666_Advancing-Women-s-Health-To-Improve-Outcomes.md) | 수요 창출 · 보조금 · 준수비용 증가 |
+| 2026-10-23 | 🇺🇸 | [Implementing the Guiding and Establishing National Innovation for U.S.](2026-10-23_FR_2026-21706_Implementing-the-Guiding-and-Establishing-Na.md) | 준수비용 증가 · 진입장벽 · 수요 창출 |
+| 2026-10-23 | 🇺🇸 | [Supplemental Nutrition Assistance Program: Electronic Benefits Transfe](2026-10-23_FR_2026-21658_Supplemental-Nutrition-Assistance-Program-El.md) | 준수비용 증가 · 수요 창출 · 진입장벽 |
 | 2026-09-30 | 🇺🇸 | [License to Drill Act](2026-09-30_CG_119-hr7831_License-to-Drill-Act.md) | 준수비용 증가 |
 | 2026-09-23 | 🇺🇸 | [Romance Scam Prevention Act](2026-09-23_CG_119-hr2481_Romance-Scam-Prevention-Act.md) | 준수비용 증가 · 수요 창출 |
 | 2026-09-23 | 🇺🇸 | [Critical Infrastructure Manufacturing Feasibility Act](2026-09-23_CG_119-hr1721_Critical-Infrastructure-Manufacturing-Feasib.md) | 수요 창출 |
