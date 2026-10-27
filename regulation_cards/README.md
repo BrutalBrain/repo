@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-24 05:28 KST · 총 36건_
+_최종 갱신: 2026-10-28 08:54 KST · 총 39건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-26 | 🇺🇸 | [Outbound Investment Security Program Regulations](2026-10-26_FR_2026-21786_Outbound-Investment-Security-Program-Regulat.md) | 공급 차단 · 준수비용 증가 · 수요 창출 |
+| 2026-10-27 | 🇺🇸 | [Bipartisan Safer Communities Act of 2022-Criteria for National Instant](2026-10-27_FR_2026-21920_Bipartisan-Safer-Communities-Act-of-2022-Cri.md) | 보조금 |
+| 2026-10-26 | 🇺🇸 | [Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108](2026-10-26_FR_2026-21794_Federal-Motor-Vehicle-Safety-Standards-Moder.md) | 수요 창출 · 진입장벽 |
 | 2026-10-22 | 🇺🇸 | [Advancing Women's Health To Improve Outcomes in All Phases of Life](2026-10-22_FR_2026-21666_Advancing-Women-s-Health-To-Improve-Outcomes.md) | 수요 창출 · 보조금 · 준수비용 증가 |
 | 2026-10-23 | 🇺🇸 | [Implementing the Guiding and Establishing National Innovation for U.S.](2026-10-23_FR_2026-21706_Implementing-the-Guiding-and-Establishing-Na.md) | 준수비용 증가 · 진입장벽 · 수요 창출 |
 | 2026-10-23 | 🇺🇸 | [Supplemental Nutrition Assistance Program: Electronic Benefits Transfe](2026-10-23_FR_2026-21658_Supplemental-Nutrition-Assistance-Program-El.md) | 준수비용 증가 · 수요 창출 · 진입장벽 |
