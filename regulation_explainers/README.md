@@ -1,12 +1,21 @@
 # 규제 해설
 
-_최종 갱신: 2026-10-28 08:26 KST · 총 26건_
+_최종 갱신: 2026-10-28 22:08 KST · 총 35건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-10-27 | 🇺🇸 | 🕒 시행 대기 | [Bipartisan Safer Communities Act of 2022-Criteria for Nation](2026-10-27_FR_2026-21920_explainer.md) | 총기 가게·공장이 직원 신원조회를 FBI 시스템으로 연방 수수료 없이 할 수 있게 한 자발적 제도 — 총기 소매·제조업엔 비용 없는 소폭 호재, |
+| 2026-10-26 | 🇺🇸 | 🔵 의견수렴 | [Federal Motor Vehicle Safety Standards; Modernization of FMV](2026-10-26_FR_2026-21794_explainer.md) | 핸들 없는 로보택시의 양산 걸림돌을 치우고 청록색 '자율주행 표시등'이라는 새 부품 시장을 여는 미국의 탈규제 신호 — 로보택시·조명 부품 쪽에 |
+| 2026-10-22 | 🇺🇸 | ✅ 발효 중 | [Advancing Women's Health To Improve Outcomes in All Phases o](2026-10-22_FR_2026-21666_explainer.md) | 미국 정부가 여성 건강 연구를 공식 우선순위로 올려 제약·바이오, 진단·정밀의료, CRO에 중장기 순풍이 부는 행정명령 — 단, 돈줄은 의회 예 |
+| 2026-10-23 | 🇺🇸 | 🕒 시행 대기 | [Implementing the Guiding and Establishing National Innovatio](2026-10-23_FR_2026-21706_explainer.md) | 미국 스테이블코인이 2027년 1월 18일부터 '은행급 규제' 시대에 들어서며, 연방 인가를 받을 수 있는 대형 발행사·은행·커스터디 은행에는  |
+| 2026-10-23 | 🇺🇸 | 🔵 의견수렴 | [Supplemental Nutrition Assistance Program: Electronic Benefi](2026-10-23_FR_2026-21658_explainer.md) | 미국 저소득층 식비 카드 약 4,200만 명분을 최종 규칙 공포 후 2년 안에 칩·NFC 카드로 전량 교체하는 규칙안 — 스마트카드 제조·POS |
+| 2026-09-30 | 🇺🇸 | ✅ 법률 확정 (PL 119-134) | [License to Drill Act](2026-09-30_CG_119-hr7831_explainer.md) | 이미 있던 미국 연방 토지 시추 허가 수수료를 2037년까지 연장하고 그 전액을 허가 처리 개선 기금에 묶어 둔 확정 법률이다. 비용 충격은 거 |
+| 2026-09-23 | 🇺🇸 | ✅ 법률 확정 (PL 119-129) | [Romance Scam Prevention Act](2026-09-23_CG_119-hr2481_explainer.md) | 데이팅 앱에 '사기 계정 차단 후 24시간 내 경고 통지' 의무를 지운 미국 연방법 — 플랫폼(매치그룹·범블 등)에는 법을 지키기 위한 시스템  |
+| 2026-09-23 | 🇺🇸 | ✅ 법률 확정 (PL 119-127) | [Critical Infrastructure Manufacturing Feasibility Act](2026-09-23_CG_119-hr1721_explainer.md) | 당장 돈이 움직이는 법은 아니지만, 2028년 3월까지 나올 상무부의 '미국 국산화 후보 품목 목록'은 다음 리쇼어링 지원 정책의 설계도가 될  |
+| 2026-10-20 | 🇺🇸 | 🔵 의견수렴 | [Authorizations for Certain Activities at Liquefied Natural G](2026-10-20_FR_2026-21443_explainer.md) | 미국 LNG 터미널의 개보수·증설 허가를 '건별 심사'에서 '자동승인+사전통지'로 바꾸는 FERC 규칙안 — 확정되면(가능성 높음, 2027년  |
 | 2026-10-20 | 🇺🇸 | ✅ 시행 중 | [Civil Penalties Inflation Adjustments; Annual Adjustments](2026-10-20_FR_2026-21474_explainer.md) | 셧다운으로 물가지수가 안 나와 인디언사무국의 연례 과징금 인상이 올해는 통째로 취소된, 금액 변동 제로의 절차적 규칙 — 투자 관점의 실질 영향 |
 | 2026-10-20 | 🇺🇸 | 🔵 의견수렴 | [Medicare Program; Implementation of Sections 6219, 6220, and](2026-10-20_FR_2026-21420_explainer.md) | 이미 통과된 법을 옮기는 규칙이라 시행 확실성이 높다 — 2028년부터 제네릭 제조사와 헬스케어 IT에는 물량·수요 호재, PBM과 MA 보험사 |
 | 2026-10-19 | 🇺🇸 | ✅ 시행 중 | [Marine Mammals; Incidental Take of Polar Bears and Pacific W](2026-10-19_FR_2026-21371_explainer.md) | 알래스카 노스슬로프 석유·가스 사업의 법적 걸림돌이던 포획 승인 공백이 5년간 메워지면서, ConocoPhillips 등 운영사의 연중 생산 활 |

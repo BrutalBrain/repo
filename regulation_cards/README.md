@@ -1,12 +1,22 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-28 08:54 KST · 총 39건_
+_최종 갱신: 2026-10-28 22:08 KST · 총 49건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-26 | 🇺🇸 | [Modernizing the Ability of Consumers To Control Robocalls](2026-10-26_FR_2026-21820_Modernizing-the-Ability-of-Consumers-To-Cont.md) | 준수비용 증가 · 수요 창출 |
+| 2026-10-26 | 🇺🇸 | [Enhancing the Ability of Consumers To Control the Robocalls](2026-10-26_FR_2026-21821_Enhancing-the-Ability-of-Consumers-To-Contro.md) | 수요 창출 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2368 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2368_Council-Decision-CFSP-2026-2368-of-26-Octobe.md) | 수요 창출 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2363 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2363_Council-Decision-CFSP-2026-2363-of-26-Octobe.md) | 수요 창출 · 보조금 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2365 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2365_Council-Decision-CFSP-2026-2365-of-26-Octobe.md) | 수요 창출 · 보조금 |
+| 2026-10-27 | 🇺🇸 | [Implementation of HAVANA Act of 2021](2026-10-27_FR_2026-21923_Implementation-of-HAVANA-Act-of-2021.md) | 보조금 · 수요 창출 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2366 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2366_Council-Decision-CFSP-2026-2366-of-26-Octobe.md) | 보조금 · 수요 창출 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2367 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2367_Council-Decision-CFSP-2026-2367-of-26-Octobe.md) | 보조금 · 수요 창출 |
+| 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2364 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2364_Council-Decision-CFSP-2026-2364-of-26-Octobe.md) | 수요 창출 · 보조금 |
+| 2026-10-27 | 🇺🇸 | [Patient Protection and Affordable Care Act, Exchange Pre-Eligibility V](2026-10-27_FR_2026-21891_Patient-Protection-and-Affordable-Care-Act-E.md) | 준수비용 증가 · 수요 창출 · 진입장벽 |
 | 2026-10-26 | 🇺🇸 | [Outbound Investment Security Program Regulations](2026-10-26_FR_2026-21786_Outbound-Investment-Security-Program-Regulat.md) | 공급 차단 · 준수비용 증가 · 수요 창출 |
 | 2026-10-27 | 🇺🇸 | [Bipartisan Safer Communities Act of 2022-Criteria for National Instant](2026-10-27_FR_2026-21920_Bipartisan-Safer-Communities-Act-of-2022-Cri.md) | 보조금 |
 | 2026-10-26 | 🇺🇸 | [Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108](2026-10-26_FR_2026-21794_Federal-Motor-Vehicle-Safety-Standards-Moder.md) | 수요 창출 · 진입장벽 |
