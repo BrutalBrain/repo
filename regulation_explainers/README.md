@@ -1,12 +1,19 @@
 # 규제 해설
 
-_최종 갱신: 2026-10-28 22:08 KST · 총 35건_
+_최종 갱신: 2026-10-29 00:31 KST · 총 42건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-10-26 | 🇺🇸 | 🕒 시행 대기 | [Enhancing the Ability of Consumers To Control the Robocalls](2026-10-26_FR_2026-21821_explainer.md) | FCC가 로보콜 수신거부 규칙을 고쳐, 정보성 전화는 거부한 종류만 끊으면 되고 기업이 거부 접수 창구를 하나로 지정할 수 있게 됐다 — 산업계 |
+| 2026-10-26 | 🇪🇺 | ❔ 적용일 미확인 | [Council Decision (CFSP) 2026/2368 of 26 October 2026 amendin](2026-10-26_EU_32026D2368_explainer.md) | EU가 우크라이나군 훈련용 무기·탄약 예산을 2억 유로 더해 총 4억 유로로 늘리고 기간을 80개월로 연장한 즉시 발효 결정으로, 유럽 방산·탄 |
+| 2026-10-27 | 🇺🇸 | 🕒 시행 대기 | [Implementation of HAVANA Act of 2021](2026-10-27_FR_2026-21923_explainer.md) | 법무부 직원의 '아바나 증후군' 뇌손상에 비과세 일시금을 주는 소규모 복지성 규칙으로, 신경과 진료·뇌 영상검사에 아주 작은 플러스 외에는 시장 |
+| 2026-10-26 | 🇪🇺 | ❔ 적용일 미확인 | [Council Decision (CFSP) 2026/2366 of 26 October 2026 amendin](2026-10-26_EU_32026D2366_explainer.md) | EU가 우크라이나 무기 지원 환급 한도를 UAF 재원 21.79억 유로만큼 더 올려 총 한도가 80억 유로를 넘어선 확정 결정 — 환급받은 회원 |
+| 2026-10-26 | 🇪🇺 | ❔ 적용일 미확인 | [Council Decision (CFSP) 2026/2364 of 26 October 2026 amendin](2026-10-26_EU_32026D2364_explainer.md) | EU가 우크라이나 무기 지원 기금 한도를 18억 유로 늘려 총 59.2억 유로로 키웠고, 회원국의 재고 보충 발주가 이어지는 구조라 유럽 방산· |
+| 2026-10-27 | 🇺🇸 | 🔵 의견수렴 | [Patient Protection and Affordable Care Act, Exchange Pre-Eli](2026-10-27_FR_2026-21891_explainer.md) | 미국 오바마케어 보조금이 2028년부터 '선검증 후지급'으로 바뀌는 확정 수순 — ACA 개인보험사와 웹브로커에는 가입자 감소 악재, 신원확인· |
+| 2026-10-26 | 🇺🇸 | 🔵 의견수렴 | [Outbound Investment Security Program Regulations](2026-10-26_FR_2026-21786_explainer.md) | 미국 자본의 중국 등 6개 우려국 반도체·AI·양자·HPC·극초음속·바이오 투자를 '금지 기술은 불법, 신고 대상 기술은 신고 의무'의 이원 구 |
 | 2026-10-27 | 🇺🇸 | 🕒 시행 대기 | [Bipartisan Safer Communities Act of 2022-Criteria for Nation](2026-10-27_FR_2026-21920_explainer.md) | 총기 가게·공장이 직원 신원조회를 FBI 시스템으로 연방 수수료 없이 할 수 있게 한 자발적 제도 — 총기 소매·제조업엔 비용 없는 소폭 호재, |
 | 2026-10-26 | 🇺🇸 | 🔵 의견수렴 | [Federal Motor Vehicle Safety Standards; Modernization of FMV](2026-10-26_FR_2026-21794_explainer.md) | 핸들 없는 로보택시의 양산 걸림돌을 치우고 청록색 '자율주행 표시등'이라는 새 부품 시장을 여는 미국의 탈규제 신호 — 로보택시·조명 부품 쪽에 |
 | 2026-10-22 | 🇺🇸 | ✅ 발효 중 | [Advancing Women's Health To Improve Outcomes in All Phases o](2026-10-22_FR_2026-21666_explainer.md) | 미국 정부가 여성 건강 연구를 공식 우선순위로 올려 제약·바이오, 진단·정밀의료, CRO에 중장기 순풍이 부는 행정명령 — 단, 돈줄은 의회 예 |
