@@ -1,12 +1,14 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-28 22:08 KST · 총 49건_
+_최종 갱신: 2026-10-29 06:06 KST · 총 51건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-28 | 🇺🇸 | [Voluntary Consensus Standards Update; Formaldehyde Emission Standards ](2026-10-28_FR_2026-21963_Voluntary-Consensus-Standards-Update-Formald.md) | 진입장벽 · 수요 창출 |
+| 2026-10-28 | 🇺🇸 | [Health Data, Technology, and Interoperability: ONC Deregulatory Action](2026-10-28_FR_2026-21943_Health-Data-Technology-and-Interoperability-.md) | 진입장벽 · 준수비용 증가 |
 | 2026-10-26 | 🇺🇸 | [Modernizing the Ability of Consumers To Control Robocalls](2026-10-26_FR_2026-21820_Modernizing-the-Ability-of-Consumers-To-Cont.md) | 준수비용 증가 · 수요 창출 |
 | 2026-10-26 | 🇺🇸 | [Enhancing the Ability of Consumers To Control the Robocalls](2026-10-26_FR_2026-21821_Enhancing-the-Ability-of-Consumers-To-Contro.md) | 수요 창출 |
 | 2026-10-26 | 🇪🇺 | [Council Decision (CFSP) 2026/2368 of 26 October 2026 amending Decision](2026-10-26_EU_32026D2368_Council-Decision-CFSP-2026-2368-of-26-Octobe.md) | 수요 창출 |

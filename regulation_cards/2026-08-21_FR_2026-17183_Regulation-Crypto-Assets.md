@@ -274,6 +274,63 @@ _문서에 비용·편익 추정치 없음 (추정하지 않음)_
 
 **카드 수정 소요**: 세 가지 수정. (1) 패자로 둔 '주 단위 증권 등록·심사 서비스'(weak)는 메릴랜드주 변호사회 증권법위원회 등 주법 진영이 조직적으로 대응 중이어서, Rule 500 선점 범위가 축소되거나 소송으로 지연되면 패자 강도가 더 약해지거나 판정 자체가 보류될 수 있다. (2) 승자 '가상자산 발행·블록체인 프로젝트'(strong)는 safe harbor가 자기인증에서 객관적 증빙 요구로 강화되고 서술형 공시가 표준화되면 strong→medium으로 하향 여지 — 대신 공시 부담 증가는 승자 '회계·감사 및 증권 법률자문'(medium)을 오히려 강화하는 방향이라 이 판정은 상향 여지. (3) 원 카드에 없던 신규 승자 후보: 비증권 크립토 결제를 라우팅·정산하는 결제 중개 인프라(Insimbi류)가 중개자 면책 명문화를 요구 중이며, 반영 시 명시적 수혜 산업이 된다.
 
+### 2026-10-22 · 거물 등판 — {"association": "Institute for Portfolio Alternatives"}
+
+의견 260건 — 업계 지지 우세 속 Rule 400 자기인증·Rule 200 한도 산정·최소 공시 항목에 수정 요구가 집중되며, 골격 채택 전망(high)은 유지되나 최종안의 조건은 원안보다 조여질 공산.
+
+| 진영 | 제출자 | 산업 | 요구 |
+|---|---|---|---|
+| 수정 요구 | Robert E. Rutkowski (개인) | 개인 (투자자보호 성향 상시 논평자) | 면제가 정보 비대칭을 어떻게 해소하는지 증거 기반으로 설명하고, 토큰 분배·내부자 보유·베스팅 등 최소 공시 항목을 명시하라 |
+| 찬성 | Tien Nguyen (Anonymous, U.S. Retail Inve | 개인 투자자 | 합리적인 자금조달 면제를 만들되 위험·토큰분배·이해상충에 대한 명확한 공시를 보장하라 |
+| 수정 요구 | Avinesh Reddy, CEO, Insimbi | 결제 인프라·스테이블코인 결제 중개 | 비증권 크립토 결제의 단순 전송·정산은 투자계약/브로커 지위를 만들지 않음을 명문화하고, Rule 400 종료 판정의 운용 예시와 Rule 200 한도 산정용 평가시점·최소기준(de minimis) 규칙을 추가하라 |
+| 수정 요구 | Christopher Andrade (개인) | 개인 투자자 | 기관·인프라 채택을 홍보하는 프로젝트에 거버넌스·잔여 통제권·기관 관계의 실체 등 표준화 의무공시를 부과하고, safe harbor 는 자기인증이 아닌 객관적 증거를 요구하라 |
+| 반대 | Americans for Financial Reform Education | 투자자보호 시민단체 | (추정) 등록면제 2종과 safe harbor 가 투자자 보호 공백을 만든다며 축소·철회 요구 |
+| 반대 | Benjamin L. Schiffrin, Better Markets In | 금융개혁·투자자보호 비영리 | (추정) Howey 기준 우회와 공시 완화에 반대, 등록 체계 유지 요구 |
+| 찬성 | Coinbase Global, Inc. (COIN) | 미국 가상자산 거래소·중개 | (추정) 골격 지지, covered investment contract 범위와 면제 한도의 확대 요구 |
+| 찬성 | Blockchain Association·Crypto Council fo | 가상자산 발행·블록체인 프로젝트 개발 및 업계 협회 | (추정) 면제·safe harbor 골격 지지, 탈중앙화 판정 기준의 명확화·완화 요구 |
+| 찬성 | Johanna Collins-Wood, Bitwise Asset Mana | 가상자산 자산운용 | (추정) 합법 발행 경로 신설 지지, 운용상품 편입 가능한 자산의 법적 지위 명확화 요구 |
+| 수정 요구 | John A. Zecca, Nasdaq, Inc. (NDAQ) | 증권거래소·시장 인프라 | (추정) 규제 시장과의 동등 경쟁조건 — 등록 증권시장과 면제 토큰시장 간 규제 정합성 확보 요구 |
+| 수정 요구 | Securities Industry and Financial Market | 전통 증권업계 협회 | (추정) safe harbor 범위 제한과 기존 증권 공모 규제 대비 역차별 방지 요구 |
+| 수정 요구 | Penny Somer-Greif, Maryland State Bar As | 주(州) 증권 법조·등록 심사 | (추정) Subpart E(Rule 500) 주법 선점의 범위 축소 — 주 차원 투자자 보호 권한 유지 요구 |
+| 찬성 | Anya Coverman, Institute for Portfolio A | 대체투자 상품업계(비상장 리츠·BDC 등) | (추정) 주법 선점(Rule 500) 지지 및 동일 논리의 대체투자 공모 전반 확대 적용 요구 |
+| 수정 요구 | Brian Belley, Crowdfunding Professional  | 증권형 크라우드펀딩(Reg CF) 플랫폼·자문 | (추정) 크립토에만 500만/7,500만 달러 면제를 주는 데 따른 기존 Reg CF 경로와의 역차별 해소 요구 |
+| 수정 요구 | Campbell Pryde, XBRL US | 공시 데이터 표준화 | (추정) 서술형 공시를 구조화(XBRL) 형식으로 의무화해 비교가능성 확보 요구 |
+| 불명 | Brian Laverdure, Independent Community B | 지역은행 | (추정) 은행 시스템 접점에서의 안전장치 관련 의견 — 본문 미확보로 방향 불명 |
+
+**확정 가능성**: high → **high (유지 — 단, 세부 조건 강화 수정 확률 상승)** — 260건 중 명시적 반대는 AFREF·Better Markets 등 상설 투자자보호 단체 중심으로 소수이고, 크립토 업계·자산운용·개인 다수가 지지 또는 '지지 기반 수정요구'여서 골격 채택 전망은 원 카드 판단대로 유지. 다만 지지 진영 내부에서도 Rule 400 자기인증의 객관화, Rule 200 한도 산정 규칙, 최소 공시 항목 구체화 요구가 반복되어 최종안은 원안보다 조건이 조여질 가능성이 높다. Rule 500 주법 선점은 주 법조의 반발이 확인되어 원 카드가 지목한 소송 리스크가 구체화되는 중.
+
+**카드 수정 소요**: 패자 쪽에 '증권형 크라우드펀딩(Reg CF) 플랫폼·자문업'을 약~중간 강도로 추가해야 한다 — CfPA·The Super Crowd·Sara Hanks 등 크라우드펀딩 진영이 집단 제출했는데, 크립토에만 500만/7,500만 달러 면제를 열어주면 기존 Reg CF 경로가 상대 열위가 되기 때문이다. '주 단위 등록 서비스' 패자 판단은 메릴랜드 주 변호사회의 등장으로 확인되지만, 같은 이유로 Rule 500 발 소송 리스크도 현실화 경로에 들어섰다. '발행사 공시 부담(약한 패자)' 판단은 유지하되 방향이 반대로 강화될 수 있다 — 지지·반대 양 진영 모두 공시 강화를 요구하고 있어 최종안의 공시 부담은 원안보다 커질 공산이 크다. 승자 쪽 '미국 거래소' 판단은 유지하나 Nasdaq·SIFMA 가 동등 경쟁조건을 요구하고 있어 수혜가 크립토 전업 거래소에서 전통 규제시장으로 일부 분산될 수 있고, 트리거 제출자 IPA 의 참전은 주법 선점 수혜가 대체투자 상품업계로 확장될 가능성을 시사한다.
+
+### 2026-10-22 · 거물 등판 — {"association": "Senior Coun"}
+
+의견 260건 — 업계·거래소 지지 우세로 골격 채택 확률 high 유지, 단 Rule 400 자기인증과 Rule 200 한도 산정·공시 표준화는 우호 진영까지 수정을 요구해 세부 조건 강화가 유력.
+
+| 진영 | 제출자 | 산업 | 요구 |
+|---|---|---|---|
+| 수정 요구 | Robert E. Rutkowski (개인) | 개인·투자자보호 | 면제가 발행사-투자자 정보 비대칭을 어떻게 해소하는지 증거 기반 설명과 최소 공시 기준(토큰 분배·내부자 물량·베스팅·거버넌스) 명시 요구 |
+| 찬성 | Anonymous, U.S. Retail Investor (Tien Ng | 개인 투자자 | 명확한 공시를 전제로 한 합리적 자금조달 면제 지지 |
+| 수정 요구 | Avinesh Reddy, CEO, Insimbi | 가상자산 결제 인프라·핀테크 | 비증권 크립토 결제 중개의 브로커/딜러 비해당 명시, Rule 400 종료 판정의 운영 사실 기반 사례 제시, 에어드랍·스테이킹 보상의 Rule 200 한도 산입 평가 규칙 신설 |
+| 수정 요구 | Christopher Andrade (개인) | 개인 투자자 | 거버넌스·잔여 통제·기관 제휴 실체·토큰 분배에 대한 표준화 공시 의무화, safe harbor는 자기인증이 아닌 객관적 증거 요구 |
+| 찬성 | Coinbase Global, Inc. | 미국 가상자산 거래소 | 골격 채택 지지 (본문 미확보, 기존 입장 기반 추정) |
+| 수정 요구 | John A. Zecca, Nasdaq, Inc. | 증권거래소·전통 자본시장 | 전통 증권시장과의 규제 형평(동일 활동·동일 규제) 보장 요구 추정 (본문 미확보) |
+| 찬성 | Johanna Collins-Wood, Bitwise Asset Mana | 가상자산 자산운용 | 합법 발행 경로 신설 지지 추정 (본문 미확보) |
+| 찬성 | Blockchain Association (Ashok Pinto 외) | 가상자산 업계 협회 | 면제 2종+safe harbor 골격 지지 추정 (본문 미확보) |
+| 찬성 | DeFi Education Fund (Amanda Tuminelli 외) | DeFi 업계 협회 | safe harbor의 탈중앙화 프로토콜 적용 보장 추정 (본문 미확보) |
+| 찬성 | Uniswap Labs (Brian Nistler) | DeFi 프로토콜 개발 | Rule 400 safe harbor 유지·확대 추정 (본문 미확보) |
+| 찬성 | Stellar Development Foundation (Candace  | 블록체인 프로젝트·재단 | covered investment contract 범위의 기존 가동 네트워크 포섭 추정 (본문 미확보) |
+| 반대 | Americans for Financial Reform Education | 투자자보호 시민단체 | 등록 면제·Howey 우회 철회 요구 추정 (본문 미확보) |
+| 반대 | Better Markets Inc. (Benjamin L. Schiffr | 투자자보호 단체 | 면제 한도·safe harbor 전면 반대 및 소송 가능성 시사 추정 (본문 미확보) |
+| 수정 요구 | Committee on Securities Law, Maryland St | 주(州) 증권법 법률가 | Rule 500 주법 선점 축소·주 관할권 보존 요구 추정 (본문 미확보) |
+| 수정 요구 | SIFMA | 전통 증권업(브로커·딜러) | 등록 증권 대비 규제 차익 해소·중개 규제 정합성 요구 추정 (본문 미확보) |
+| 수정 요구 | Crowdfunding Professional Association·Th | 크라우드펀딩(Reg CF) 업계 | Reg CF 대비 크립토 면제가 과도하게 유리하지 않도록 형평 조정 또는 Reg CF 동반 완화 요구 추정 (본문 미확보) |
+| 수정 요구 | XBRL US (Campbell Pryde) | 공시 데이터 표준 | 서술형 공시의 구조화(기계가독) 데이터 제출 의무화 요구 추정 (본문 미확보) |
+| 수정 요구 | ICBA (Brian Laverdure) | 커뮤니티 은행 | 은행권과의 규제 형평·결제 영역 침범 경계 추정 (본문 미확보) |
+| 불명 | Skadden, Arps, Slate, Meagher & Flom LLP | 증권 법률자문 | 기술적 조문 수정 의견 추정 (본문 미확보) |
+
+**확정 가능성**: high → **high (유지)** — 총 260건 중 전면 반대는 예상된 투자자보호 진영(AFREF·Better Markets 등)에 국한되고, 거래소(Coinbase·Nasdaq)·자산운용(Bitwise)·업계 협회(Blockchain Association·DeFi Education Fund)·법률가·개인 다수가 지지 또는 조건부 지지로, 골격 채택 전망은 원 카드 판단대로 유지. 다만 Rule 400 자기인증(객관적 증거·운영 사례 요구)과 Rule 200 한도 산정(보상 평가 규칙), 공시 표준화는 우호 진영까지 수정을 요구해 원 카드가 리스크로 꼽은 '세부 한도·safe harbor 조건 변경'이 현실화되는 중 — 확률은 high 유지하되 채택안은 제안보다 조건이 강화된 형태일 가능성이 높아짐.
+
+**카드 수정 소요**: 승자 '가상자산 발행·블록체인 프로젝트(strong)'는 유지하되 조건부로 수정 — safe harbor가 자기인증에서 객관적 증거·표준화 공시로 강화되면 면제 이용 비용이 올라 사실상 medium으로 희석될 수 있고, 이 경우 '회계·감사 및 증권 법률자문'의 수혜는 오히려 medium→strong 방향으로 커진다. 패자 '주 단위 증권 등록·심사 서비스(weak)'는 메릴랜드주 변호사회 등 조직적 대응이 확인돼 판단은 유지하나, Rule 500 선점이 수정·소송으로 축소되면 패자에서 제외될 조건부 판단으로 바꾼다. 신규 관찰 대상: 크라우드펀딩(Reg CF) 업계가 크립토 면제 대비 형평을 제기하고 있어 상대적 패자 후보로 추가 검토 필요. 참고로 트리거의 'Senior Coun'은 DeFi Education Fund·Blockchain Association 제출건의 공동 서명자 직함(Senior Counsel)이 절단된 파싱 오류로 실제 협회가 아니다.
+
 ---
 
 _생성: sector_chain 규제 영향 카드 · 모델 claude-fable-5 · 인용 기계검증 통과_
