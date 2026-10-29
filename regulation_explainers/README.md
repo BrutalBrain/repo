@@ -1,12 +1,14 @@
 # 규제 해설
 
-_최종 갱신: 2026-10-29 05:53 KST · 총 48건_
+_최종 갱신: 2026-10-30 05:39 KST · 총 50건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-10-29 | 🇺🇸 | 🔵 의견수렴 | [Additional Reconsideration Standards of Performance for New,](2026-10-29_FR_2026-22082_explainer.md) | EPA 가 2024년 메탄 규제의 핵심을 걷어내는 완화안을 내놓으면서, 미국 석유·가스 생산업체(특히 한계유정 중소업체)는 비용 부담이 줄고,  |
+| 2026-10-28 | 🇺🇸 | 🕒 시행 대기 | [Health Data, Technology, and Interoperability: ONC Deregulat](2026-10-28_FR_2026-21943_explainer.md) | 미국 EHR 인증 문턱을 낮춰 개발사에 연 1억 달러대 비용을 돌려주는 확정 탈규제 — 중소 헬스IT 개발사엔 호재, 다만 빠진 필수 기능이 유 |
 | 2026-10-28 | 🇺🇸 | 🕒 시행 대기 | [Voluntary Consensus Standards Update; Formaldehyde Emission ](2026-10-28_FR_2026-21963_explainer.md) | 미국 목재 패널 포름알데히드 규제의 측정 표준을 최신판으로 바꾸는 정기 정비로, EPA 스스로 추가 비용이 없다고 못 박은 만큼 어느 업종에도  |
 | 2026-10-21 | 🇺🇸 | ✅ 발효 중 | [Implementing the Lindsey O. Graham Sanctioning Russia and Ir](2026-10-21_FR_2026-21599_explainer.md) | 러시아산 500%·구매국 100% 관세라는 초강력 무기를 장전해 놓고 방아쇠(면제 해제)는 행정부 손에 쥔 행정명령 — 투자자는 지금의 숫자가  |
 | 2026-10-26 | 🇺🇸 | 🔵 의견수렴 | [Modernizing the Ability of Consumers To Control Robocalls](2026-10-26_FR_2026-21820_explainer.md) | FCC가 로보콜 수신 거부를 더 빠르고 쉽게 만드는 규칙 개정을 묻는 제안 단계 — 텔레마케팅·추심·은행에는 비용, CPaaS·동의관리 솔루션에 |

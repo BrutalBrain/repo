@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-29 06:06 KST · 총 51건_
+_최종 갱신: 2026-10-30 05:51 KST · 총 54건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-28 | 🇺🇸 | [Decreasing Housing Costs for the American People](2026-10-28_FR_2026-22051_Decreasing-Housing-Costs-for-the-American-Pe.md) | 수요 창출 · 보조금 |
+| 2026-10-29 | 🇺🇸 | [Reducing Bureaucracy and Burden for Block Grants](2026-10-29_FR_2026-22123_Reducing-Bureaucracy-and-Burden-for-Block-Gr.md) | 수요 창출 |
+| 2026-10-29 | 🇺🇸 | [Additional Reconsideration Standards of Performance for New, Reconstru](2026-10-29_FR_2026-22082_Additional-Reconsideration-Standards-of-Perf.md) | 준수비용 증가 · 수요 창출 · 진입장벽 |
 | 2026-10-28 | 🇺🇸 | [Voluntary Consensus Standards Update; Formaldehyde Emission Standards ](2026-10-28_FR_2026-21963_Voluntary-Consensus-Standards-Update-Formald.md) | 진입장벽 · 수요 창출 |
 | 2026-10-28 | 🇺🇸 | [Health Data, Technology, and Interoperability: ONC Deregulatory Action](2026-10-28_FR_2026-21943_Health-Data-Technology-and-Interoperability-.md) | 진입장벽 · 준수비용 증가 |
 | 2026-10-26 | 🇺🇸 | [Modernizing the Ability of Consumers To Control Robocalls](2026-10-26_FR_2026-21820_Modernizing-the-Ability-of-Consumers-To-Cont.md) | 준수비용 증가 · 수요 창출 |
