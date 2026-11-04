@@ -1,12 +1,17 @@
 # 규제 해설
 
-_최종 갱신: 2026-10-30 05:39 KST · 총 50건_
+_최종 갱신: 2026-11-05 01:16 KST · 총 55건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-10-30 | 🇺🇸 | 🕒 시행 대기 | [Medicare Program; CY 2027 Changes to the End-Stage Renal Dis](2026-10-30_FR_2026-22194_explainer.md) | 미국 투석 수가가 2027년부터 1회 $297.52로 올라 투석 체인과 재택투석 장비주에 순풍이지만, 약값이 번들로 흡수되는 인산염 결합제 제약 |
+| 2026-11-02 | 🇺🇸 | 🔵 의견수렴 | [Infant Formula Nutrient Requirements](2026-11-02_FR_2026-22273_explainer.md) | FDA가 40년 묵은 분유 영양기준을 손보면서 분유 제조사는 전 제품 재배합·재라벨 비용을 고스란히 떠안고 비타민D·요오드 원료업은 구조적 수요 |
+| 2026-11-03 | 🇺🇸 | 🕒 시행 대기 | [Medicare and Medicaid Programs; Organ Procurement Organizati](2026-11-03_FR_2026-22381_explainer.md) | 성적 나쁜 미국 장기구득기관(OPO)을 퇴출시키고 그 담당 구역을 잘하는 기관에 넘기는 절차가 확정됐다 — 첫 분수령은 2027년 상반기의 구역 |
+| 2026-11-03 | 🇺🇸 | 🔵 의견수렴 | [Pipeline Safety: Amendments to Liquefied Natural Gas Facilit](2026-11-03_FR_2026-22396_explainer.md) | 미국이 2001년판 기준에 머물러 있던 LNG 시설 안전규정을 최신화해 연 $98M의 준수비용을 덜어주고 기존 부지 증설·소형 LNG 신시장의  |
+| 2026-11-02 | 🇺🇸 | 🕒 시행 대기 | [Improving Transparency Into Pharmacy Benefit Manager Fee Dis](2026-11-02_FR_2026-22306_explainer.md) | 미국 노동부가 PBM이 받는 돈을 계약 전에 전부 공개하게 만들면서, 숨은 마진에 기대 온 대형 수직통합 PBM은 수수료 인하 압력을 받고 자가 |
 | 2026-10-29 | 🇺🇸 | 🔵 의견수렴 | [Additional Reconsideration Standards of Performance for New,](2026-10-29_FR_2026-22082_explainer.md) | EPA 가 2024년 메탄 규제의 핵심을 걷어내는 완화안을 내놓으면서, 미국 석유·가스 생산업체(특히 한계유정 중소업체)는 비용 부담이 줄고,  |
 | 2026-10-28 | 🇺🇸 | 🕒 시행 대기 | [Health Data, Technology, and Interoperability: ONC Deregulat](2026-10-28_FR_2026-21943_explainer.md) | 미국 EHR 인증 문턱을 낮춰 개발사에 연 1억 달러대 비용을 돌려주는 확정 탈규제 — 중소 헬스IT 개발사엔 호재, 다만 빠진 필수 기능이 유 |
 | 2026-10-28 | 🇺🇸 | 🕒 시행 대기 | [Voluntary Consensus Standards Update; Formaldehyde Emission ](2026-10-28_FR_2026-21963_explainer.md) | 미국 목재 패널 포름알데히드 규제의 측정 표준을 최신판으로 바꾸는 정기 정비로, EPA 스스로 추가 비용이 없다고 못 박은 만큼 어느 업종에도  |
@@ -49,7 +54,7 @@ _최종 갱신: 2026-10-30 05:39 KST · 총 50건_
 | 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Adviser and Regulated Fund Custody Rules; Crypto Custody Rul](2026-10-06_FR_2026-20466_explainer.md) | SEC가 '맡길 곳이 없어' 막혀 있던 펀드의 암호화폐 투자 길을 여는 보관 규칙 초안을 내놓았다 — 확정 가능성이 높아, 암호화폐 수탁 서비스 |
 | 2026-10-06 | 🇺🇸 | 🕒 시행 대기 | [Transparency in Coverage](2026-10-06_FR_2026-20447_explainer.md) | 미국 건강보험 가격표 공개가 '올리기만 하면 되는 숙제'에서 '정확하고 쓸 수 있어야 하는 의무'로 바뀌면서, 그 데이터를 가공하는 헬스케어 분 |
 | 2026-10-05 | 🇺🇸 | 🔵 의견수렴 | [Proposal of Special Measure Prohibiting the Transmittal of F](2026-10-05_FR_2026-20371_explainer.md) | 미국이 러시아 제재 회피망 A7의 전 세계 위장 회사 송금로 — A7 스스로 러시아 대외무역 결제의 상당 몫을 처리한다고 주장하는 — 를 끊는  |
-| 2026-09-04 | 🇺🇸 | 🔵 의견수렴 | [Transfer Agent Rules](2026-09-04_FR_2026-18190_explainer.md) | 미국 주주명부 관리업의 수십 년 묵은 규칙이 보안·신기술 중심의 표적 수리에 들어갔다 — 확정은 일러야 2027년이지만, 비용은 명의개서 대리인 |
+| 2026-09-04 | 🇺🇸 | 🔵 심사 중 | [Transfer Agent Rules](2026-09-04_FR_2026-18190_explainer.md) | 미국 주주명부 관리업의 수십 년 묵은 규칙이 보안·신기술 중심의 표적 수리에 들어갔다 — 확정은 일러야 2027년이지만, 비용은 명의개서 대리인 |
 | 2026-09-25 | 🇺🇸 | ✅ 시행 중 | [Annual Notices on Explosive Materials Storage Facilities to ](2026-09-25_FR_2026-19694_explainer.md) | 미국 폭발물 저장자에게 연 1회 소방서 통지 의무를 추가한 안전 규칙으로, 건당 약 30분 수준의 행정 부담이라 어느 산업에도 투자 판단을 바꿀 |
 | 2026-09-21 | 🇺🇸 | 🔵 의견수렴 | [Rescission of Rule 14a-8's Federal Regulation of Shareholder](2026-09-21_FR_2026-19260_explainer.md) | SEC가 주주제안 규정(Rule 14a-8)의 전면 폐지를 제안했다 — 확정되면 미국 상장사의 ESG·행동주의 대응 부담은 크게 줄고 의결권 자 |
 | 2026-09-25 | 🇺🇸 | ✅ 시행 중 | [Implementing the Safe Explosives Act](2026-09-25_FR_2026-19693_explainer.md) | 2003년부터 임시로 돌아가던 미국 폭발물 규칙의 확정판으로, 새 충격보다는 폭발물 운송사의 배송 확인 부담을 덜어 주는 소폭 완화가 핵심이라  |

@@ -1,12 +1,18 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-10-30 05:51 KST · 총 54건_
+_최종 갱신: 2026-11-05 01:59 KST · 총 60건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-10-30 | 🇺🇸 | [Medicare Program; CY 2027 Changes to the End-Stage Renal Disease (ESRD](2026-10-30_FR_2026-22194_Medicare-Program-CY-2027-Changes-to-the-End-.md) | 보조금 · 준수비용 증가 · 수요 창출 |
+| 2026-11-02 | 🇺🇸 | [Infant Formula Nutrient Requirements](2026-11-02_FR_2026-22273_Infant-Formula-Nutrient-Requirements.md) | 준수비용 증가 · 수요 창출 |
+| 2026-10-30 | 🇺🇸 | [Schedules of Controlled Substances: Placement of Centanafadine in Sche](2026-10-30_FR_2026-22208_Schedules-of-Controlled-Substances-Placement.md) | 진입장벽 · 준수비용 증가 |
+| 2026-11-03 | 🇺🇸 | [Medicare and Medicaid Programs; Organ Procurement Organizations Condit](2026-11-03_FR_2026-22381_Medicare-and-Medicaid-Programs-Organ-Procure.md) | 준수비용 증가 · 진입장벽 |
+| 2026-11-03 | 🇺🇸 | [Pipeline Safety: Amendments to Liquefied Natural Gas Facilities](2026-11-03_FR_2026-22396_Pipeline-Safety-Amendments-to-Liquefied-Natu.md) | 수요 창출 · 진입장벽 · 준수비용 증가 |
+| 2026-11-02 | 🇺🇸 | [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](2026-11-02_FR_2026-22306_Improving-Transparency-Into-Pharmacy-Benefit.md) | 준수비용 증가 · 수요 창출 |
 | 2026-10-28 | 🇺🇸 | [Decreasing Housing Costs for the American People](2026-10-28_FR_2026-22051_Decreasing-Housing-Costs-for-the-American-Pe.md) | 수요 창출 · 보조금 |
 | 2026-10-29 | 🇺🇸 | [Reducing Bureaucracy and Burden for Block Grants](2026-10-29_FR_2026-22123_Reducing-Bureaucracy-and-Burden-for-Block-Gr.md) | 수요 창출 |
 | 2026-10-29 | 🇺🇸 | [Additional Reconsideration Standards of Performance for New, Reconstru](2026-10-29_FR_2026-22082_Additional-Reconsideration-Standards-of-Perf.md) | 준수비용 증가 · 수요 창출 · 진입장벽 |
