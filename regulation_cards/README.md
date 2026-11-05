@@ -1,12 +1,13 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-11-05 06:22 KST · 총 60건_
+_최종 갱신: 2026-11-06 05:57 KST · 총 61건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-11-05 | 🇺🇸 | [Deepwater Port Application Processing and Licensing](2026-11-05_FR_2026-22617_Deepwater-Port-Application-Processing-and-Li.md) | 진입장벽 |
 | 2026-10-30 | 🇺🇸 | [Medicare Program; CY 2027 Changes to the End-Stage Renal Disease (ESRD](2026-10-30_FR_2026-22194_Medicare-Program-CY-2027-Changes-to-the-End-.md) | 보조금 · 준수비용 증가 · 수요 창출 |
 | 2026-11-02 | 🇺🇸 | [Infant Formula Nutrient Requirements](2026-11-02_FR_2026-22273_Infant-Formula-Nutrient-Requirements.md) | 준수비용 증가 · 수요 창출 |
 | 2026-10-30 | 🇺🇸 | [Schedules of Controlled Substances: Placement of Centanafadine in Sche](2026-10-30_FR_2026-22208_Schedules-of-Controlled-Substances-Placement.md) | 진입장벽 · 준수비용 증가 |
