@@ -1,12 +1,14 @@
 # 규제 해설
 
-_최종 갱신: 2026-11-06 05:53 KST · 총 59건_
+_최종 갱신: 2026-11-11 08:27 KST · 총 61건_
 
 파급력 있는 법안을 골라(지명제) 투자자 눈높이로 풀어쓴 해설 —
 진행 단계 · 배경지식 · 조항 대역 · 숫자 상자 · 파급효과 · 지켜볼 것.
 
 | 공포일 | 관할 | 지금 단계 | 법안 | 한 줄 요약 |
 |---|---|---|---|---|
+| 2026-11-10 | 🇺🇸 | 🔵 의견수렴 | [Medicare and Medicaid Programs; Cutting Administrative Requi](2026-11-10_FR_2026-22812_explainer.md) | 미국 병원·요양원의 행정 숙제를 연평균 약 3억 2천만 달러어치 덜어주는 규제완화안 — 병원·요양시설 운영업체엔 마진 개선 재료, 의무 교육·보 |
+| 2026-11-10 | 🇺🇸 | 🔵 의견수렴 | [Unemployment Insurance Program National Minimum Weekly Work ](2026-11-10_FR_2026-22903_explainer.md) | 미국 실업급여에 '매주 구직활동 5회' 전국 최저선을 긋는 규칙안 — 확정되면 스태핑·직업훈련·채용 플랫폼에 의무적 수요가 생기고, 주정부 행정 |
 | 2026-11-05 | 🇺🇸 | 🔵 의견수렴 | [Deepwater Port Application Processing and Licensing](2026-11-05_FR_2026-22617_explainer.md) | 미국 원유·LNG 심해항 인허가 창구가 MARAD로 일원화되고 심사 지연 요인이 줄어드는 절차 규칙 — 권한 이관 자체는 이미 법으로 확정된 사 |
 | 2026-10-30 | 🇺🇸 | ✅ 시행 중 | [Schedules of Controlled Substances: Placement of Centanafadi](2026-10-30_FR_2026-22208_explainer.md) | 오츠카의 ADHD 신약 센타나파딘이 기존 각성제보다 느슨한 Schedule III를 받아 미국 시판의 마지막 관문을 통과했다 — 오츠카에는 청신 |
 | 2026-10-29 | 🇺🇸 | 🔵 의견수렴 | [Reducing Bureaucracy and Burden for Block Grants](2026-10-29_FR_2026-22123_explainer.md) | 미국 복지 블록그랜트 규정의 '낡은 조항 대청소' — 새 돈은 없지만, 고정된 LIHEAP 예산 안에서 단열·주택수리 시공업 쪽으로 물꼬가 넓어 |
@@ -51,7 +53,7 @@ _최종 갱신: 2026-11-06 05:53 KST · 총 59건_
 | 2026-10-15 | 🇺🇸 | 🔵 의견수렴 | [Investment Company Cross Trading](2026-10-15_FR_2026-21037_explainer.md) | SEC가 막혀 있던 펀드 간 채권 직거래(크로스 트레이딩)를 다시 열어 주는 개정을 제안 — 펀드 운용사에는 거래비용 절감, 가격평가 벤더에는  |
 | 2026-10-13 | 🇺🇸 | 🕒 시행 대기 | [Project-Level Predecisional Administrative Review Process](2026-10-13_FR_2026-20890_explainer.md) | 미국 국유림·국유초지의 벌채·산불 연료저감 사업 이의신청 절차가 2026년 11월 12일부터 대폭 짧아져, 목재·산림관리 업계는 사업 착수가 빨 |
 | 2026-10-13 | 🇺🇸 | 🕒 시행 대기 | [Use of Salt Substitutes To Reduce the Sodium Content in Stan](2026-10-13_FR_2026-20848_explainer.md) | 미국 FDA가 치즈·빵·통조림 등 139개 표준식품에 소금 대체재 사용을 허용(2026-12-14 시행)하면서, 염화칼륨 등 대체염 소재 업체에 |
-| 2026-10-09 | 🇺🇸 | 🕒 시행 대기 | [Schedules of Controlled Substances; Removal of Exemption Sta](2026-10-09_FR_2026-20757_explainer.md) | 이미 단종된 부탈비탈 진통제 160개를 DEA 면제 명단에서 지우는 장부 정리로, 현재 판매 중인 제품과 관련 기업 실적에는 영향이 사실상 없는 |
+| 2026-10-09 | 🇺🇸 | ✅ 시행 중 | [Schedules of Controlled Substances; Removal of Exemption Sta](2026-10-09_FR_2026-20757_explainer.md) | 이미 단종된 부탈비탈 진통제 160개를 DEA 면제 명단에서 지우는 장부 정리로, 현재 판매 중인 제품과 관련 기업 실적에는 영향이 사실상 없는 |
 | 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Proposal of Special Measure Regarding Convertible Virtual Cu](2026-10-06_FR_2026-20429_explainer.md) | 미국이 가상자산 믹싱 규제안을 공식 철회하면서 거래소·수탁기관과 믹서·프라이버시 프로토콜 진영에는 규제 리스크 해소, 레그테크 업계에는 예정 수 |
 | 2026-10-08 | 🇺🇸 | 🔵 의견수렴 | [Clinical Laboratory Improvement Amendments of 1988 (CLIA); V](2026-10-08_FR_2026-20613_explainer.md) | 미국이 코로나 때 임시로 봐주던 '검사실 밖 원격 판독'을 정식 합법으로 만드는 규제 완화로, 디지털 병리 장비·의료 IT·스토리지 업체에 수요 |
 | 2026-10-06 | 🇺🇸 | 🔵 의견수렴 | [Investment Adviser Performance-Based Compensation Modernizat](2026-10-06_FR_2026-20474_explainer.md) | 사모펀드의 전유물이던 성과보수 전략이 공모펀드로 열리는 SEC 제안 — 사모 전략을 가진 자산운용사에는 고마진 수입원이 생기고, 고정보수만 받는 |
