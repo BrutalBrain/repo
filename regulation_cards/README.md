@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-11-11 08:57 KST · 총 63건_
+_최종 갱신: 2026-11-13 06:23 KST · 총 66건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-11-11 | 🇺🇸 | [Efficient Nuclear Licensing Hearings Act](2026-11-11_CG_119-hr5549_Efficient-Nuclear-Licensing-Hearings-Act.md) | 진입장벽 |
+| 2026-11-10 | 🇺🇸 | [To expand the sharing of information with respect to suspected violati](2026-11-10_CG_119-hr4930_To-expand-the-sharing-of-information-with-re.md) | 공급 차단 · 준수비용 증가 |
+| 2026-11-12 | 🇺🇸 | [Federal Reserve Bank Capital Stock](2026-11-12_FR_2026-23060_Federal-Reserve-Bank-Capital-Stock.md) | 보조금 |
 | 2026-11-10 | 🇺🇸 | [Medicare and Medicaid Programs; Cutting Administrative Requirements fo](2026-11-10_FR_2026-22812_Medicare-and-Medicaid-Programs-Cutting-Admin.md) | 준수비용 증가 |
 | 2026-11-10 | 🇺🇸 | [Unemployment Insurance Program National Minimum Weekly Work Search Req](2026-11-10_FR_2026-22903_Unemployment-Insurance-Program-National-Mini.md) | 준수비용 증가 · 수요 창출 |
 | 2026-11-05 | 🇺🇸 | [Deepwater Port Application Processing and Licensing](2026-11-05_FR_2026-22617_Deepwater-Port-Application-Processing-and-Li.md) | 진입장벽 |
