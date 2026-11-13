@@ -1,12 +1,15 @@
 # 규제 영향 카드
 
-_최종 갱신: 2026-11-13 06:23 KST · 총 66건_
+_최종 갱신: 2026-11-14 06:15 KST · 총 69건_
 
 미국·EU 규제 중 파급력 상위를 선별해 산업 영향을 분석한 카드.
 초안 단계 발행 → 의견수렴 전황 → 확정안 비교가 한 문서에 쌓입니다.
 
 | 공포일 | 관할 | 규제 | 파급 유형 |
 |---|---|---|---|
+| 2026-11-11 | 🇺🇸 | [Retirement Fairness for Charities and Educational Institutions Act of ](2026-11-11_CG_119-hr1013_Retirement-Fairness-for-Charities-and-Educat.md) | 수요 창출 |
+| 2026-11-11 | 🇺🇸 | [Department of Energy Nuclear Transparency Act](2026-11-11_CG_119-hr9084_Department-of-Energy-Nuclear-Transparency-Ac.md) | 준수비용 증가 |
+| 2026-11-11 | 🇺🇸 | [Cybersecurity for Small Businesses Act of 2026](2026-11-11_CG_119-hr10238_Cybersecurity-for-Small-Businesses-Act-of-20.md) | 수요 창출 |
 | 2026-11-11 | 🇺🇸 | [Efficient Nuclear Licensing Hearings Act](2026-11-11_CG_119-hr5549_Efficient-Nuclear-Licensing-Hearings-Act.md) | 진입장벽 |
 | 2026-11-10 | 🇺🇸 | [To expand the sharing of information with respect to suspected violati](2026-11-10_CG_119-hr4930_To-expand-the-sharing-of-information-with-re.md) | 공급 차단 · 준수비용 증가 |
 | 2026-11-12 | 🇺🇸 | [Federal Reserve Bank Capital Stock](2026-11-12_FR_2026-23060_Federal-Reserve-Bank-Capital-Stock.md) | 보조금 |
